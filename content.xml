@@ -4,17 +4,17 @@
 <userPreferences>
   <userPreference>
     <key>theme</key>
-    <value>neo</value>
+    <value>zen</value>
   </userPreference>
 </userPreferences>
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260509172938153AVL</value>
+    <value>20260509174533VN4GMJ</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>202605091729385OOM7C</value>
+    <value>20260509174533OFAZCR</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -55,7 +55,7 @@ Licencia </value>
   </odeProperty>
   <odeProperty>
     <key>pp_theme</key>
-    <value>neo</value>
+    <value>zen</value>
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
@@ -63,7 +63,7 @@ Licencia </value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778339917363</value>
+    <value>1778341378410</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -1024,12 +1024,12 @@ Licencia </value>
     <p>Autoría: <a href="mailto:jbaepen625@g.educaand.es">jbaepen625@g.educaand.es</a></p>
 <p>Licencia Creative Commons: Reconocimiento - No comercial - Compartir igual 4.0</p>
 <p>Centro educativo: CEIP Clara Campoamor Alhaurín de la Torre</p>
-<p>Descripción: Situación de Aprendizaje digital creada con ExeLearning para Scrtach en 4º de Educación Primaria.</p>
+<p>Descripción: Situación de Aprendizaje digital creada con ExeLearning para Scratch en 4º de Educación Primaria.</p>
 <p>Áreas: Matemáticas, Ciencias, Artística.</p>
 <p>Fecha: Mayo de 2026.</p>
 <p style="text-align: center;"><a href="{{context_path}}/content/resources/sda-scratch5_1-primaria_4.elpx" title="sda-scratch5_1-primaria_4.elpx">DESCARGA</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778088529141-sx9yvhhq1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: <a href=\"mailto:jbaepen625@g.educaand.es\">jbaepen625@g.educaand.es</a></p>\n<p>Licencia Creative Commons: Reconocimiento - No comercial - Compartir igual 4.0</p>\n<p>Centro educativo: CEIP Clara Campoamor Alhaurín de la Torre</p>\n<p>Descripción: Situación de Aprendizaje digital creada con ExeLearning para Scrtach en 4º de Educación Primaria.</p>\n<p>Áreas: Matemáticas, Ciencias, Artística.</p>\n<p>Fecha: Mayo de 2026.</p>\n<p style=\"text-align: center;\"><a href=\"{{context_path}}/content/resources/sda-scratch5_1-primaria_4.elpx\" title=\"sda-scratch5_1-primaria_4.elpx\">DESCARGA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778088529141-sx9yvhhq1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: <a href=\"mailto:jbaepen625@g.educaand.es\">jbaepen625@g.educaand.es</a></p>\n<p>Licencia Creative Commons: Reconocimiento - No comercial - Compartir igual 4.0</p>\n<p>Centro educativo: CEIP Clara Campoamor Alhaurín de la Torre</p>\n<p>Descripción: Situación de Aprendizaje digital creada con ExeLearning para Scratch en 4º de Educación Primaria.</p>\n<p>Áreas: Matemáticas, Ciencias, Artística.</p>\n<p>Fecha: Mayo de 2026.</p>\n<p style=\"text-align: center;\"><a href=\"{{context_path}}/content/resources/sda-scratch5_1-primaria_4.elpx\" title=\"sda-scratch5_1-primaria_4.elpx\">DESCARGA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
