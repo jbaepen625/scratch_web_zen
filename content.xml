@@ -4,17 +4,17 @@
 <userPreferences>
   <userPreference>
     <key>theme</key>
-    <value>zen</value>
+    <value>neo</value>
   </userPreference>
 </userPreferences>
 <odeResources>
   <odeResource>
     <key>odeId</key>
-    <value>20260507192942JSRXH1</value>
+    <value>20260509172938153AVL</value>
   </odeResource>
   <odeResource>
     <key>odeVersionId</key>
-    <value>2026050719294244CBXF</value>
+    <value>202605091729385OOM7C</value>
   </odeResource>
   <odeResource>
     <key>exe_version</key>
@@ -55,7 +55,7 @@ Licencia </value>
   </odeProperty>
   <odeProperty>
     <key>pp_theme</key>
-    <value>zen</value>
+    <value>neo</value>
   </odeProperty>
   <odeProperty>
     <key>pp_exelearning_version</key>
@@ -63,7 +63,7 @@ Licencia </value>
   </odeProperty>
   <odeProperty>
     <key>pp_modified</key>
-    <value>1778174726077</value>
+    <value>1778339917363</value>
   </odeProperty>
   <odeProperty>
     <key>pp_addExeLink</key>
@@ -100,7 +100,7 @@ Licencia </value>
 </odeProperties>
 <odeNavStructures>
 <odeNavStructure>
-  <odePageId>page-movqaxc5-922qzplw2</odePageId>
+  <odePageId>page-moyho65i-fsuvfs88x</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Inicio</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
@@ -136,7 +136,7 @@ Licencia </value>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movqaxc5-922qzplw2</odePageId>
+      <odePageId>page-moyho65i-fsuvfs88x</odePageId>
       <odeBlockId>block-1778083549189-uwoxjv33c</odeBlockId>
       <blockName>SdA Scratch - 4º Primaria</blockName>
       <iconName>info</iconName>
@@ -165,7 +165,7 @@ Licencia </value>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movqaxc5-922qzplw2</odePageId>
+          <odePageId>page-moyho65i-fsuvfs88x</odePageId>
           <odeBlockId>block-1778083549189-uwoxjv33c</odeBlockId>
           <odeIdeviceId>idevice-1778083549186-998ew3zol</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -194,8 +194,8 @@ Licencia </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movqaxc6-9ev9i360j</odePageId>
-  <odeParentPageId>page-movqaxc5-922qzplw2</odeParentPageId>
+  <odePageId>page-moyho65j-5kx2tzywf</odePageId>
+  <odeParentPageId>page-moyho65i-fsuvfs88x</odeParentPageId>
   <pageName>Presentación del proyecto</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -230,7 +230,7 @@ Licencia </value>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movqaxc6-9ev9i360j</odePageId>
+      <odePageId>page-moyho65j-5kx2tzywf</odePageId>
       <odeBlockId>block-1778086204940-aql0dr35n</odeBlockId>
       <blockName>INICIACIÓN AL PENSAMIENTO COMPUTACIONAL CON SCRATCH</blockName>
       <iconName>collaborative</iconName>
@@ -259,7 +259,7 @@ Licencia </value>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movqaxc6-9ev9i360j</odePageId>
+          <odePageId>page-moyho65j-5kx2tzywf</odePageId>
           <odeBlockId>block-1778086204940-aql0dr35n</odeBlockId>
           <odeIdeviceId>idevice-1778086204939-k5vgqslgm</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -288,7 +288,7 @@ Licencia </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movqaxc6-6bno8ng2p</odePageId>
+  <odePageId>page-moyho65j-3b9s7upmb</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Actividades y sesiones de trabajo</pageName>
   <odeNavStructureOrder>1</odeNavStructureOrder>
@@ -332,7 +332,7 @@ Licencia </value>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movqaxc6-6bno8ng2p</odePageId>
+      <odePageId>page-moyho65j-3b9s7upmb</odePageId>
       <odeBlockId>block-1778173202254-8k16naz56</odeBlockId>
       <blockName>Cronograma</blockName>
       <iconName>roadmap</iconName>
@@ -361,7 +361,7 @@ Licencia </value>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movqaxc6-6bno8ng2p</odePageId>
+          <odePageId>page-moyho65j-3b9s7upmb</odePageId>
           <odeBlockId>block-1778173202254-8k16naz56</odeBlockId>
           <odeIdeviceId>idevice-1778173202251-m7kzhorjx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -371,6 +371,18 @@ Licencia </value>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1778173202251-m7kzhorjx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1OzM2HWG2Z-R7QWQvIgZ7Q5nIWNSwVUJb/view?usp=sharing\" title=\"\">Enlace a CRONOGRAMA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -378,14 +390,14 @@ Licencia </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movqaxc6-cc7ctel5d</odePageId>
+  <odePageId>page-moyho65j-z9u7roixp</odePageId>
   <odeParentPageId></odeParentPageId>
-  <pageName>Herramientas de clase</pageName>
+  <pageName>APPS DE USO DIARIO</pageName>
   <odeNavStructureOrder>2</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Herramientas de clase</value>
+      <value>APPS DE USO DIARIO</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>visibility</key>
@@ -405,11 +417,11 @@ Licencia </value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titlePage</key>
-      <value>Herramientas de clase</value>
+      <value>APPS DE USO DIARIO</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleNode</key>
-      <value>Herramientas de clase</value>
+      <value>APPS DE USO DIARIO</value>
     </odeNavStructureProperty>
     <odeNavStructureProperty>
       <key>titleHtml</key>
@@ -422,9 +434,9 @@ Licencia </value>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movqaxc6-cc7ctel5d</odePageId>
+      <odePageId>page-moyho65j-z9u7roixp</odePageId>
       <odeBlockId>block-1778086303124-84abvpmt1</odeBlockId>
-      <blockName>HERRAMIENTAS DE CLASE</blockName>
+      <blockName>APP DE USO DIARIO</blockName>
       <iconName>interactive</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
@@ -451,7 +463,7 @@ Licencia </value>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movqaxc6-cc7ctel5d</odePageId>
+          <odePageId>page-moyho65j-z9u7roixp</odePageId>
           <odeBlockId>block-1778086303124-84abvpmt1</odeBlockId>
           <odeIdeviceId>idevice-1778086303122-p4osbt4bu</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -480,8 +492,8 @@ Licencia </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movqaxc6-dojg3ryqm</odePageId>
-  <odeParentPageId>page-movqaxc6-cc7ctel5d</odeParentPageId>
+  <odePageId>page-moyho65k-qlikec89z</odePageId>
+  <odeParentPageId>page-moyho65j-z9u7roixp</odeParentPageId>
   <pageName>Site del alumnado</pageName>
   <odeNavStructureOrder>0</odeNavStructureOrder>
   <odeNavStructureProperties>
@@ -524,7 +536,7 @@ Licencia </value>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movqaxc6-dojg3ryqm</odePageId>
+      <odePageId>page-moyho65k-qlikec89z</odePageId>
       <odeBlockId>block-1778086427709-cgyqkws9r</odeBlockId>
       <blockName>SITES ALUMNADO</blockName>
       <iconName>geography</iconName>
@@ -553,7 +565,7 @@ Licencia </value>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movqaxc6-dojg3ryqm</odePageId>
+          <odePageId>page-moyho65k-qlikec89z</odePageId>
           <odeBlockId>block-1778086427709-cgyqkws9r</odeBlockId>
           <odeIdeviceId>idevice-1778086427707-pdwklslqg</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -582,7 +594,7 @@ Licencia </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movqaxc7-blt7vwbru</odePageId>
+  <odePageId>page-moyho65k-x7rsiyh43</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
   <odeNavStructureOrder>3</odeNavStructureOrder>
@@ -626,7 +638,7 @@ Licencia </value>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movqaxc7-blt7vwbru</odePageId>
+      <odePageId>page-moyho65k-x7rsiyh43</odePageId>
       <odeBlockId>block-1778086584192-6rpbwy6k2</odeBlockId>
       <blockName>RELACIONAMOS TAREAS CON CRITERIOS DE EVALUACIÓN</blockName>
       <iconName>activity</iconName>
@@ -655,7 +667,7 @@ Licencia </value>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movqaxc7-blt7vwbru</odePageId>
+          <odePageId>page-moyho65k-x7rsiyh43</odePageId>
           <odeBlockId>block-1778086584192-6rpbwy6k2</odeBlockId>
           <odeIdeviceId>idevice-1778086584188-ni7e1xbqe</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -684,7 +696,7 @@ Licencia </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movqaxc7-y4hyc36uk</odePageId>
+  <odePageId>page-moyho65k-p2fumiebi</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Instrumentos de evaluación</pageName>
   <odeNavStructureOrder>4</odeNavStructureOrder>
@@ -720,7 +732,7 @@ Licencia </value>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movqaxc7-y4hyc36uk</odePageId>
+      <odePageId>page-moyho65k-p2fumiebi</odePageId>
       <odeBlockId>block-1778087253073-lrkwn7m4e</odeBlockId>
       <blockName>INSTRUMENTOS DE EVALUACIÓN</blockName>
       <iconName>diary</iconName>
@@ -749,7 +761,7 @@ Licencia </value>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movqaxc7-y4hyc36uk</odePageId>
+          <odePageId>page-moyho65k-p2fumiebi</odePageId>
           <odeBlockId>block-1778087253073-lrkwn7m4e</odeBlockId>
           <odeIdeviceId>idevice-1778087253072-j4z10729r</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -782,10 +794,10 @@ Licencia </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movqaxc7-zat4ukcig</odePageId>
+  <odePageId>page-moyho65l-d5w6t6r6c</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Herramientas digitales</pageName>
-  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -818,7 +830,7 @@ Licencia </value>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movqaxc7-zat4ukcig</odePageId>
+      <odePageId>page-moyho65l-d5w6t6r6c</odePageId>
       <odeBlockId>block-1778088069791-d2gmdv7xu</odeBlockId>
       <blockName>HERRAMIENTAS DIGITALES</blockName>
       <iconName>interactive</iconName>
@@ -847,7 +859,7 @@ Licencia </value>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movqaxc7-zat4ukcig</odePageId>
+          <odePageId>page-moyho65l-d5w6t6r6c</odePageId>
           <odeBlockId>block-1778088069791-d2gmdv7xu</odeBlockId>
           <odeIdeviceId>idevice-1778088069789-po8oi5qc4</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
@@ -881,7 +893,65 @@ Licencia </value>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
-  <odePageId>page-movqaxc7-g6dzehoj5</odePageId>
+  <odePageId>page-1778340031586-9ohs8hfm2</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>LICENCIAS Y DERECHOS DIGITALES</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>LICENCIAS Y DERECHOS DIGITALES</value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-1778340031586-9ohs8hfm2</odePageId>
+      <odeBlockId>block-1778340034170-exyfykl1p</odeBlockId>
+      <blockName>SEGURIDAD EN LA RED</blockName>
+      <iconName>agreement</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-1778340031586-9ohs8hfm2</odePageId>
+          <odeBlockId>block-1778340034170-exyfykl1p</odeBlockId>
+          <odeIdeviceId>idevice-1778340034168-ya8hzk0l4</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><a href="https://drive.google.com/file/d/1eLur2gWOvW3TALC2kgTY7uNBJQ86e6Ik/view?usp=drivesdk" title="">SEGURIDAD EN LA RED</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778340034168-ya8hzk0l4","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"https://drive.google.com/file/d/1eLur2gWOvW3TALC2kgTY7uNBJQ86e6Ik/view?usp=drivesdk\" title=\"\">SEGURIDAD EN LA RED</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-moyho65l-hs3n50oee</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos y licencia</pageName>
   <odeNavStructureOrder>7</odeNavStructureOrder>
@@ -917,7 +987,7 @@ Licencia </value>
   </odeNavStructureProperties>
   <odePagStructures>
     <odePagStructure>
-      <odePageId>page-movqaxc7-g6dzehoj5</odePageId>
+      <odePageId>page-moyho65l-hs3n50oee</odePageId>
       <odeBlockId>block-1778088529142-n72apn9pz</odeBlockId>
       <blockName>Créditos y licencia</blockName>
       <iconName>share</iconName>
@@ -946,15 +1016,20 @@ Licencia </value>
       </odePagStructureProperties>
       <odeComponents>
         <odeComponent>
-          <odePageId>page-movqaxc7-g6dzehoj5</odePageId>
+          <odePageId>page-moyho65l-hs3n50oee</odePageId>
           <odeBlockId>block-1778088529142-n72apn9pz</odeBlockId>
           <odeIdeviceId>idevice-1778088529141-sx9yvhhq1</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
     <p>Autoría: <a href="mailto:jbaepen625@g.educaand.es">jbaepen625@g.educaand.es</a></p>
 <p>Licencia Creative Commons: Reconocimiento - No comercial - Compartir igual 4.0</p>
+<p>Centro educativo: CEIP Clara Campoamor Alhaurín de la Torre</p>
+<p>Descripción: Situación de Aprendizaje digital creada con ExeLearning para Scrtach en 4º de Educación Primaria.</p>
+<p>Áreas: Matemáticas, Ciencias, Artística.</p>
+<p>Fecha: Mayo de 2026.</p>
+<p style="text-align: center;"><a href="{{context_path}}/content/resources/sda-scratch5_1-primaria_4.elpx" title="sda-scratch5_1-primaria_4.elpx">DESCARGA</a></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778088529141-sx9yvhhq1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: <a href=\"mailto:jbaepen625@g.educaand.es\">jbaepen625@g.educaand.es</a></p>\n<p>Licencia Creative Commons: Reconocimiento - No comercial - Compartir igual 4.0</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1778088529141-sx9yvhhq1","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Autoría: <a href=\"mailto:jbaepen625@g.educaand.es\">jbaepen625@g.educaand.es</a></p>\n<p>Licencia Creative Commons: Reconocimiento - No comercial - Compartir igual 4.0</p>\n<p>Centro educativo: CEIP Clara Campoamor Alhaurín de la Torre</p>\n<p>Descripción: Situación de Aprendizaje digital creada con ExeLearning para Scrtach en 4º de Educación Primaria.</p>\n<p>Áreas: Matemáticas, Ciencias, Artística.</p>\n<p>Fecha: Mayo de 2026.</p>\n<p style=\"text-align: center;\"><a href=\"{{context_path}}/content/resources/sda-scratch5_1-primaria_4.elpx\" title=\"sda-scratch5_1-primaria_4.elpx\">DESCARGA</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
